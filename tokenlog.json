@@ -1,0 +1,8 @@
+{
+    "org": "Phlote",
+    "repo": "tokenlog",
+    "tokenAddress": "0x34e39a612227dcaf02b4f7511114bab9584bb7a3",
+    "labels": ["Phlote Governance"],
+    "votingMethod": "QUADRATIC",
+    "chainId": 100
+}
